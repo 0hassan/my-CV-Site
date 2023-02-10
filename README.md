@@ -1,1 +1,1 @@
-# mySite is my first peure html based CV site.
+# it is my first peure html based CV site.
